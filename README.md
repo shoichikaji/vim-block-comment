@@ -7,7 +7,7 @@ It cares **indents**.
 
 With NeoBundle:
 
-    NeoBundle 'shoichikaji/vim-block-comment';
+    NeoBundle 'shoichikaji/vim-block-comment'
 
 Or manually, just copy `plugin/block-comment.vim` and `tools/block-comment.pl`
 to your `~/.vim` directory.
